@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Breeder Nikki Horner of Louisville, Kentucky, is credited with developing the Bombay, starting in the late 1950s. Her goal was a sleek, shiny black cat with a muscular body and friendly temperament. British breeders achieved the same look and personality with crosses of Burmese and black domestic shorthairs.
