@@ -2,16 +2,16 @@
 title: 
 subtitle: 
 email: paulomoreiraesilva@gmail.com
-description: I am super friendly and a bit naughty<br /> and released under the Creative Commons.
+description: Super friendly mumbai cat needs a home <br /> while his owner is away
 baseurl: "/mynameiscookies" # the subpath of your site, e.g. /blog
 url: "https://pmoreiraesilva.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Park West 18 Jalan Lempeng 03-05
+city: Singapore
+state: 
+zip_code: 128801
+country: Singapore
+phone: +65 8231 9310
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
